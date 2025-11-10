@@ -1,113 +1,130 @@
-# 🚀 Bridgelabz-2415500346-Training  
+# 🚀 BridgeLabz-2415500346-Training  
 ### 🧠 Java Learning Log  
 
-This repository documents my **Java learning journey** during the **Bridgelabz Training Program**.  
-Each branch focuses on specific Java concepts, progressing from the basics to advanced topics like **Functional Interfaces**, **Lambda Expressions**, and **Exception Handling**.  
+This repository documents my **Java learning journey** during the **BridgeLabz Training Program**.  
+Each folder or branch focuses on a specific Java concept, progressing from the fundamentals to advanced topics like **Functional Interfaces**, **Lambda Expressions**, **Collections**, and **Exception Handling**.  
 
 ---
 
 ## 🌿 Repository Structure  
 
-Each branch represents a separate Java learning module:  
+Each folder represents a key Java learning module:  
 
-| Branch Name | Description |
+| Folder Name | Description |
 |--------------|-------------|
-| `java-core` | Covers Java fundamentals — syntax, data types, loops, arrays,strings and basic logic building |
-| `java-oops` | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, encapsulation |
-| `packages-in-java` | Explains how to organize Java code using packages and imports |
-| `wrapper-class` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing |
-| `functional-interface` | Covers Functional Interfaces, Default/Static methods, and Lambda usage |
-| `error-and-exception` | Focuses on Exception Handling, including custom and built-in exceptions |
-| `lambda-expression` | Demonstrates real-world examples using Lambda Expressions and functional-style coding |
+| `FunctionalInterfaces` | Covers Functional Interfaces, Default/Static methods, and Lambda usage |
+| `OOPs` | Focuses on Object-Oriented Programming — classes, inheritance, polymorphism, abstraction, encapsulation |
+| `Collections` | Explores the Java Collections Framework — List, Set, Map, and Queue implementations |
+| `WrapperClass` | Demonstrates Wrapper Classes, Autoboxing, and Unboxing |
 
 ---
 
 ## 📅 Weekly Java Learning Progress  
 
-### **🗓️ August 11–13, 2025**  
-- Set up **Git Bash** and learned how to use it for version control  
+### 🗓️ **August 11–13, 2025**  
+- Set up **Git Bash** and learned version control basics  
 - Understood the difference between **Git**, **Git Bash**, and **GitHub**  
-- Practiced basic Git commands: `init`, `add`, `commit`, `push`, `clone`, etc.  
-- Learned best practices for using Git and maintaining repositories  
-- Solved basic Java problems to strengthen foundational logic  
+- Practiced commands: `init`, `add`, `commit`, `push`, `clone`  
+- Learned best practices for maintaining clean commits  
+- Solved basic Java logic-building problems  
 
 ---
 
-### **🗓️ August 18–20, 2025**  
+### 🗓️ **August 18–20, 2025**  
 - Started learning **Java programming fundamentals**  
-- Studied main **elements of Java** — syntax, keywords, data types, and variables  
-- Understood **Java structure** — `main()` method, statements, and flow  
-- Practiced simple **input/output** programs and got comfortable with the **Java development environment**  
+- Studied **syntax, keywords, data types, and variables**  
+- Understood **Java program structure** — `main()` method and execution flow  
+- Practiced **input/output** programs using `Scanner` class  
+- Gained confidence with the **Java development environment**  
 
 ---
 
-### **🗓️ August 25–27, 2025**  
+### 🗓️ **August 25–27, 2025**  
 - Learned **control flow statements** — `if`, `else`, `switch`, `for`, `while`, `do-while`  
-- Understood **decision-making and iteration** in Java  
-- Studied **arrays (1D and 2D)** — declaration, initialization, traversal  
-- Implemented programs using **nested loops** and **matrix operations**  
+- Practiced **decision-making and iteration** logic  
+- Studied **arrays (1D & 2D)** — declaration, initialization, traversal  
+- Implemented **matrix operations** using nested loops  
 
 ---
 
-### **🗓️ September 1–3, 2025**  
-- Explored **edge cases** and handling boundary conditions in programs  
-- Learned **methods** — declaration, parameters, and return types  
-- Practiced writing **user-defined methods** for modular coding  
-- Studied **Strings**, their immutability, and manipulation  
-- Learned about **StringBuffer** and **StringBuilder** for efficient string operations  
+### 🗓️ **September 1–3, 2025**  
+- Worked on **methods** — parameters, return types, and reusability  
+- Explored **Strings** and their immutability  
+- Learned **StringBuffer** and **StringBuilder** for efficient manipulation  
 - Compared **String vs StringBuffer vs StringBuilder**  
+- Focused on writing **modular and readable code**  
 
 ---
 
-### **🗓️ September 8–10, 2025**  
-- Introduced to **OOPs concepts** — Encapsulation, Inheritance, Polymorphism, and Abstraction  
+### 🗓️ **September 8–10, 2025**  
+- Introduced to **OOPs fundamentals** — Encapsulation, Inheritance, Polymorphism, Abstraction  
 - Studied **constructors** — default, parameterized, and copy  
-- Understood **instance vs static variables**  
-- Learned **access modifiers** — public, private, protected, default  
-- Practiced **inheritance** and created hierarchical class relationships  
+- Understood **static vs instance members**  
+- Practiced **inheritance** and **access modifiers** (`public`, `private`, `protected`, `default`)  
 
 ---
 
-### **🗓️ September 15–17, 2025**  
-- Studied advanced **OOPs concepts** — Interfaces, Abstract Classes, and Polymorphism  
+### 🗓️ **September 15–17, 2025**  
+- Deep dive into **advanced OOPs** — Interfaces and Abstract Classes  
 - Practiced **Method Overloading** and **Method Overriding**  
-- Understood **Upcasting** and **Downcasting** with examples  
-- Implemented **Abstract Classes and Interfaces** together  
-- Strengthened conceptual understanding with practical code  
+- Learned **Upcasting** and **Downcasting**  
+- Combined **abstract classes and interfaces** for hybrid design  
 
 ---
 
-### **🗓️ September 22–24, 2025**  
-- Solved **real-world Java problems** applying OOP concepts  
-- Implemented **Inheritance**, **Polymorphism**, **Abstraction**, and **Encapsulation**  
-- Focused on writing **structured, reusable, and modular** code  
+### 🗓️ **September 22–24, 2025**  
+- Implemented **real-world OOP examples**  
+- Applied **Encapsulation, Inheritance, and Polymorphism** in modular programs  
+- Wrote structured and reusable code following OOP best practices  
 
 ---
 
-### **🗓️ October 13–15, 2025**  
+### 🗓️ **October 13–15, 2025**  
 - Completed **Interfaces in Java**  
-- Learned to define and implement **Interfaces** effectively  
-- Explored **Functional Interfaces**, **Default/Static Methods**, and **Marker Interfaces**  
-- Introduced to **Lambda Expressions** for concise, modern coding  
+- Implemented **Functional Interfaces** and **Marker Interfaces**  
+- Explored **Default** and **Static** methods in interfaces  
+- Introduced to **Lambda Expressions** for concise, functional-style coding  
 - Practiced using **Lambdas with Interfaces** for optimization  
 
 ---
 
-### **🗓️ October 27–29, 2025**  
-- Studied **Packages** — creation, purpose, and importing classes  
-- Learned **Exception Handling** — `try`, `catch`, `finally`, `throw`, `throws`  
+### 🗓️ **October 27–29, 2025**  
+- Studied **Packages** — creation, organization, and imports  
+- Learned **Exception Handling** (`try`, `catch`, `finally`, `throw`, `throws`)  
 - Understood **checked vs unchecked exceptions**  
 - Created **Custom Exceptions**  
-- Studied **Wrapper Classes**, **Autoboxing**, and **Unboxing**  
-- Integrated **Packages + Exceptions + Wrapper Classes** in projects  
-
---- 
+- Implemented **Wrapper Classes**, **Autoboxing**, and **Unboxing**  
+- Integrated **Packages + Exceptions + Wrapper Classes** into projects  
 
 ---
 
 ## 🧰 Tools Used  
-- **Java JDK 25**
+- **Java JDK 25**  
 - **IntelliJ IDEA**  
-- **Git & GitHub** for version control
+- **Git & GitHub** for version control  
+
+---
+
+## 📖 Topics Covered  
+- ✅ Java Core Syntax and Fundamentals  
+- ✅ OOP Principles (Encapsulation, Inheritance, Polymorphism, Abstraction)  
+- ✅ Functional Interfaces and Lambda Expressions  
+- ✅ Collections Framework (List, Set, Map)  
+- ✅ Exception Handling  
+- ✅ Wrapper Classes, Autoboxing & Unboxing  
+- ✅ Packages and Modular Code Design  
+
+---
+
+## 💡 Purpose  
+This repository serves as a **comprehensive log** of my progress and practical implementations during the **BridgeLabz Java Training Program**.  
+It showcases consistent hands-on learning, structured progression, and code practices aligned with industry standards.  
+
+---
+
+## 👤 Author  
+**Prashant Singh**  
+📍 BridgeLabz Training Program Participant  
+🔗 [GitHub Profile](https://github.com/prashantsingh10psb)  
 
 ---
