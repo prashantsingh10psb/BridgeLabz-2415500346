@@ -63,7 +63,7 @@ Understand how objects store complex data types in memory.
 
 ---
 
-## 🧑‍💻 3. User Input  
+## 🧑‍💻 3. User Input  ()
 
 **Explanation:**  
 Java takes input using the `Scanner` class or command-line arguments.  
