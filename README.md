@@ -1,4 +1,4 @@
-# 🚀 Bridgelabz-2415500088-Training
+# 🚀 Bridgelabz-2415500346-Training
 ## 🧠 Java Learning Log
 
 This repository documents my Java learning journey during the Bridgelabz Training Program.  
